@@ -54,6 +54,26 @@
   </ul>
 <hr></hr>
 
+## Como utilizar? 
+
+### Clone
+- Clone este repositório na sua máquina local
+```
+git clone https://github.com/jpgSouza/next-level-week2.git
+```
+
+### Instalação
+- Na pasta do projeto, rode o comando no seu terminal
+```sh
+npm run dev
+```
+
+### Navegador
+- Porta utilizada
+```sh
+localhost:5500
+```
+
 <h2>
   <a id="user-content--preview" class="anchor" aria-hidden="true" href="#-preview">
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
@@ -63,6 +83,7 @@
   <g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥</g-emoji> Preview
 </h2>
 </p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69214919/89739509-b01e3100-da57-11ea-9653-1cfd42bfd78c.png" width="700" style="max-width:100%;">
   <img src="https://i.ibb.co/WzhvhyJ/proffy-joao.png" width="700" style="max-width:100%;">
