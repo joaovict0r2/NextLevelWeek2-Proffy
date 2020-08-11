@@ -72,6 +72,7 @@
   Desenvolvido por João Victor Costa Santos
 </p>
 <hr>
+
 ## Como utilizar? 
 
 ### Clone
