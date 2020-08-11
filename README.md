@@ -78,7 +78,7 @@
 ### Clone
 - Clone este repositório na sua máquina local
 ```
-git clone https://github.com/jpgSouza/next-level-week2.git
+git clone https://github.com/joaovict0r2/NextLevelWeek2-Proffy
 ```
 
 ### Instalação
